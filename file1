@@ -1,3 +1,7 @@
 hi
+<<<<<<< HEAD
 hello file1 in main
-using cat
+using ca
+hello file1 
+using cat >>
+>>>>>>> main1
